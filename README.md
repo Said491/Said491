@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @Said491
+👋 Hi, I’m @Said491  
+👀 I’m interested in Ethical Hacking, Cybersecurity, and Python Programming  
+🌱 I’m currently learning Google Dorking, Python, and Termux tools  
+💞️ I’m looking to collaborate on Security Research Projects and Open Source Tools  
+📫 How to reach me: said491@example.com  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I enjoy finding vulnerabilities and solving complex security challenges!- 👋 Hi, I’m @Said491
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
